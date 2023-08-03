@@ -8640,6 +8640,7 @@ M.funcs = {
       { 'skip', 'any' },
     },
     signature = 'searchpos({pattern} [, {flags} [, {stopline} [, {timeout} [, {skip}]]]])',
+    returns = 'integer[]',
   },
   serverlist = {
     desc = [=[
